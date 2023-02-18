@@ -1,1 +1,1 @@
-# matric_with_C
+# matrix_with_C
